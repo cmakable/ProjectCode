@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarelyControlledChaos",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.BarelyControlledChaos",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.Hello",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch Methodmadness",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.Methodmadness",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.Multiplication",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch Randomhw",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.Randomhw",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch coinflip",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.coinflip",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch countdown",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.countdown",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorizer",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.factorizer",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch fortunecookie",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.fortunecookie",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch matchWork",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.matchWork",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch retunToSender",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.retunToSender",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch staypositive",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.staypositive",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.test",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch timestable",
+            "request": "launch",
+            "mainClass": "com.cmakable.helloworld.timestable",
+            "projectName": "HelloWorld"
+        }
+    ]
+}
